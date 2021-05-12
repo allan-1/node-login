@@ -1,6 +1,6 @@
 # Node Login
 
-![login](/images/Screenshot from 2021-05-12 20-35-00.png?raw=true)
+![login](https://github.com/Allan-1/node-login/blob/main/images/Screenshot%20from%202021-05-12%2020-35-00.png?raw=true)
 
 This is a simple login system made with nodejs and mongodb.
 
@@ -22,7 +22,7 @@ This is a simple login system made with nodejs and mongodb.
 6. On your browser open:
 `localhost:3000`
 
-![login](/images/Screenshot from 2021-05-12 20-35-12.png?raw=true)
+![login](https://github.com/Allan-1/node-login/blob/main/images/Screenshot%20from%202021-05-12%2020-35-12.png?raw=true)
 
 # Contribution
 Questions and contributions are welcomed
