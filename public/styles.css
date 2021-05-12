@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url("/images/pexels-santiago-pagnotta-1702624.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+.form{
+    background: rgba( 255, 255, 255, 0.35 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 3.5px );
+    -webkit-backdrop-filter: blur( 3.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 2rem;
+    color: white;
+}
+.form .error{
+    color: crimson;
+    margin-bottom: 0.5rem;
+}
+.form h1{
+    text-decoration: underline;
+}
+.form input{
+    display: block;
+    margin: 1rem 0;
+    color: black;
+    padding: 0.5rem;
+    width: 100%;
+    color: black;
+    font-size: 1.2rem;
+    background: none;
+    border: none;
+    border-bottom: 1px solid #a6244e;
+    transition: 0.5s all ease;
+}
+.form input::placeholder{
+    color: white;
+}
+.form input:focus{
+    background: white;
+    opacity: 0.5;
+}
+.form button{
+    background-color: rgb(255, 102, 0);
+    padding: 0.5rem;
+    border: none;
+    font-size: 1rem;
+    width: 100%;
+    color: white;
+    border-radius: 8px;
+    margin-bottom: 0.9rem;
+}
+.form .link{
+    font-size: 1.1rem;
+}
+.form .link a{
+    text-decoration: none;
+}
+.form .link a:hover{
+    color: black;
+    text-decoration: underline;
+}
