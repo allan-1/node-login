@@ -8,7 +8,7 @@ This is a simple login system made with nodejs and mongodb.
 1. First install nodejs and mongodb in your system
 
 2. Clone the repository
-`git clone`
+`git clone https://github.com/Allan-1/node-login.git`
 
 3. Install the dependecies
 `npm install`
